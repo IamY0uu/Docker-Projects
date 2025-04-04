@@ -21,8 +21,8 @@ If running locally (without Docker), activate the virtual environment and instal
 
 python3 -m venv .venv
 
-source .venv/bin/activate           # For Mac/Linux
-                # For Windows: .venv\Scripts\activate
+     # For Mac/Linux: source .venv/bin/activate
+     # For Windows: .venv\Scripts\activate
         
 pip install -r requirements.txt
 
