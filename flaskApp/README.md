@@ -20,6 +20,7 @@ This project is a simple Flask application that runs inside a Docker container.
 If running locally (without Docker), activate the virtual environment and install dependencies:
 
 python3 -m venv .venv
+
 source .venv/bin/activate  
         # For Mac/Linux
         # For Windows: .venv\Scripts\activate
